@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2026-09-25T21:59:51 IST" name="Default suite" finished-at="2026-09-25T22:00:08 IST" duration-ms="17684">
+    <groups>
+    </groups>
+    <test started-at="2026-09-25T21:59:51 IST" name="Default test" finished-at="2026-09-25T22:00:08 IST" duration-ms="17684">
+      <class name="com.APItesting.test.APITest">
+        <test-method signature="PostreqtoAddNewUser()[pri:1, instance:com.APItesting.test.APITest@2250b9f2]" started-at="2026-09-25T21:59:51 IST" name="PostreqtoAddNewUser" finished-at="2026-09-25T21:59:55 IST" duration-ms="4109" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PostreqtoAddNewUser -->
+        <test-method signature="getuserprofile()[pri:2, instance:com.APItesting.test.APITest@2250b9f2]" started-at="2026-09-25T21:59:55 IST" name="getuserprofile" finished-at="2026-09-25T21:59:56 IST" duration-ms="1642" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getuserprofile -->
+        <test-method signature="UpdateUser()[pri:3, instance:com.APItesting.test.APITest@2250b9f2]" started-at="2026-09-25T21:59:56 IST" name="UpdateUser" finished-at="2026-09-25T21:59:58 IST" duration-ms="1420" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateUser -->
+        <test-method signature="LoginUser()[pri:4, instance:com.APItesting.test.APITest@2250b9f2]" started-at="2026-09-25T21:59:58 IST" name="LoginUser" finished-at="2026-09-25T21:59:59 IST" duration-ms="1508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginUser -->
+        <test-method signature="AddUser()[pri:5, instance:com.APItesting.test.APITest@2250b9f2]" started-at="2026-09-25T21:59:59 IST" name="AddUser" finished-at="2026-09-25T22:00:01 IST" duration-ms="1466" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- AddUser -->
+        <test-method signature="GetContactList()[pri:6, instance:com.APItesting.test.APITest@2250b9f2]" started-at="2026-09-25T22:00:01 IST" name="GetContactList" finished-at="2026-09-25T22:00:02 IST" duration-ms="1602" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetContactList -->
+        <test-method signature="GetContact()[pri:7, instance:com.APItesting.test.APITest@2250b9f2]" started-at="2026-09-25T22:00:02 IST" name="GetContact" finished-at="2026-09-25T22:00:04 IST" duration-ms="1391" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- GetContact -->
+        <test-method signature="UpdateContact()[pri:8, instance:com.APItesting.test.APITest@2250b9f2]" started-at="2026-09-25T22:00:04 IST" name="UpdateContact" finished-at="2026-09-25T22:00:05 IST" duration-ms="1427" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateContact -->
+        <test-method signature="UpdateContactpatch()[pri:9, instance:com.APItesting.test.APITest@2250b9f2]" started-at="2026-09-25T22:00:05 IST" name="UpdateContactpatch" finished-at="2026-09-25T22:00:07 IST" duration-ms="1550" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- UpdateContactpatch -->
+        <test-method signature="LogoutUser()[pri:10, instance:com.APItesting.test.APITest@2250b9f2]" started-at="2026-09-25T22:00:07 IST" name="LogoutUser" finished-at="2026-09-25T22:00:08 IST" duration-ms="1512" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LogoutUser -->
+      </class> <!-- com.APItesting.test.APITest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
