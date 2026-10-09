@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+
+<suite name="BlazeDemo Suite">
+
+    <test name="BlazeDemo Tests">
+
+        <groups>
+            <run>
+                <include name="smoke"/>
+                <include name="functional"/>
+                <include name="negative"/>
+            </run>
+        </groups>
+
+        <classes>
+            <class name="com.blazedemo.PageFactory.test.FlightBookingTest"/>
+        </classes>
+
+    </test>
+
+</suite>
